@@ -5,7 +5,7 @@
 
 ### Home
 
-### [Professional](https://github.com/jgriffiths95/eportfolio/blob/master/Professional.md)
+### [Professional](href="Professional.md")
 
 ### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
 
