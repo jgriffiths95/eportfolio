@@ -5,9 +5,19 @@
 
 ### Home
 
-### [Professional](Professional.md)
+### [Collaborateive Discussion 1](Professional.md)
 
-### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
+### [Web Scraping Activity](Professional.md)
+
+### [Data Cleaning Activity](Professional.md)
+
+### [Normalisation and Data Build Task](Professional.md)
+
+### [Collaborative Discussion 2](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
+
+### [API Security Requirements](Professional.md)
+
+### Module Reflection
 
 
 ### University of Essex Learning Experience
