@@ -37,6 +37,7 @@ To conclude, I feel the module has been positive on the whole, with existing ski
 
 
 <u>References</u>
+
 Database Star. (2022) Database Normalization: A Step-By-Step Guide With Examples. Available from: https://www.databasestar.com/database-normalization/ [Accessed on 18 October 2024].
 
 Kazil, J. & Jarmul, K. (2016) Data Wrangling with Python: Tips and Tools to Make Your Life Easier. Sebastopol: O’Reilly Media.
