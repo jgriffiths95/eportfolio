@@ -5,7 +5,7 @@
 
 ### Home
 
-### [Collaborateive Discussion 1](Professional.md)
+### [Collaborateive Discussion 1](Discussion-Summary-1.pdf)
 
 ### [Web Scraping Activity](Professional.md)
 
