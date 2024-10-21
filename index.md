@@ -20,20 +20,11 @@ This task involved a random table displaying un-normalized data, which needed to
 A database was then built based on the data in third normal form with MySQL. The data was entered mostly manually, and in bulk by converting some tables in the Excel sheet to .csv. A .docx is attached explaining some of the queries used to test the referencial integrity of the data once it was inputted to the database.
 
 ### [Collaborative Discussion 2](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
+The second collaborative discussion was centered around comparing the EU's GDPR with that of the UK, with a particular focus on security. The feedback I received on my initial post helped me to into further detail on the subtle differences between the two juristictions and improve my understanding on how GDPR works among the various member states. Through engaging with other students during the discussion, I provided feedback to peers highlighting the differences in compliance procedures thanks to the EU's one-stop shop mechanism, and learned about how GDPR works in non-EU country that also happens to be in the EEA country, such as Norway.
 
 ### [API Security Requirements](Professional.md)
 
 ### Module Reflection
-
-
-### University of Essex Learning Experience
-
-*   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
-*   [Module 1 **Launching into Cyber Security**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   [Module 2 Title](http://example.com/)
-*   [Module 3 Title](http://example.com/)
-*   [Module 4 Title](http://example.com/)
-*   [Module 5 Title](http://example.com/)
 
 ---
 
