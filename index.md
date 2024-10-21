@@ -15,7 +15,7 @@ The web scraping activity made use of Python's BeautifulSoup library, which scra
 ### [Data Cleaning Activity](Data-Cleaning.md)
 The data cleaning activities were followed using pages xx to xx of the xxxx textbook. Data was downloaded from the UNICEF household survey data. Part of cleaning the data can involve making the set more human-readable. This allowed me to further practice using the Beautiful Soup library to scrape the human readable headings from the UNICEF website. The textbook continued to elaborate, with examples, how this is immplemented as well as further cleaning techniques for large data sets like these. Attached is the human readable table headings along with their corresponding codes, as well as the Python script used to scrape them.
 
-### [Normalisation and Data Build Task](Professional.md)
+### [Normalisation and Data Build Task](Normalisation-and-Build.md)
 This task involved a random table displaying un-normalized data, which needed to be normalised using first normal, second normal, and third normal forms. This was initially done as a visual exercise using Excel, the .xlsx file is attached. 
 A database was then built based on the data in third normal form with MySQL. The data was entered mostly manually, and in bulk by converting some tables in the Excel sheet to .csv. A .docx is attached explaining some of the queries used to test the referencial integrity of the data once it was inputted to the database.
 
