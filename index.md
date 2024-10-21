@@ -1,11 +1,11 @@
      
-## Deciphering Big Data, July-October 2023
+## Deciphering Big Data, July-October 2024
 
 ---
 
 ### Home
 
-### [Professional](https://github.com/crypto61/eportfolio/blob/master/Professional.md)
+### [Professional](https://github.com/jgriffiths95/eportfolio/blob/master/Professional.md)
 
 ### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
 
