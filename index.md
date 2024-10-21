@@ -6,6 +6,8 @@
 ### Home
 
 ### [Collaborateive Discussion 1](Discussion-Summary-1.pdf)
+The first collaborative discussion focused on critically evaluating the rationale behind the Internet of Things (IoT), highlighting the opportunities, limitations, risks, and challenges in the context of large-scale processing of data.
+I received feedback from other students on the course during the discussion period, which allowed me to further develop my initial post, with additional context added concerning IoT security, and mitigating the trade-off between accuracy and timliness when processing large amonts of real-time data.
 
 ### [Web Scraping Activity](Professional.md)
 
