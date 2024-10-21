@@ -12,7 +12,7 @@ I received feedback from other students on the course during the discussion peri
 ### [Web Scraping Activity](Web-Scraping.md)
 The web scraping activity made use of Python's BeautifulSoup library, which scrapes the HTML code from a specified webpage for use in data analysis. I was able to extract the HTML form University of Essex Online's data science course page, and count the number of times the phrase 'Data Science' appeared and recorded the results in a JSON file. I was able to compare my code with contributions in the module's Wiki page.
 
-### [Data Cleaning Activity](Professional.md)
+### [Data Cleaning Activity](Data-Cleaning.md)
 The data cleaning activities were followed using pages xx to xx of the xxxx textbook. Data was downloaded from the UNICEF household survey data. Part of cleaning the data can involve making the set more human-readable. This allowed me to further practice using the Beautiful Soup library to scrape the human readable headings from the UNICEF website. The textbook continued to elaborate, with examples, how this is immplemented as well as further cleaning techniques for large data sets like these. Attached is the human readable table headings along with their corresponding codes, as well as the Python script used to scrape them.
 
 ### [Normalisation and Data Build Task](Professional.md)
